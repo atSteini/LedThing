@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "AMAC_ESP32",
+			"path": "AMAC_ESP32"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"ios": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
